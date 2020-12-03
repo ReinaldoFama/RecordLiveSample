@@ -6,7 +6,9 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca3bfc72-497a-4791-a829-c636957040ad" name="Default Changelist" comment="" />
+    <list default="true" id="ca3bfc72-497a-4791-a829-c636957040ad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -162,17 +164,29 @@
       <option name="presentableId" value="Default" />
       <updated>1606223351165</updated>
     </task>
+    <task id="LOCAL-00001" summary="comit 2">
+      <created>1607032372116</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607032372116</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="comit 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="comit 2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="402" y="154" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607032324112">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="402" y="154" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1607032324112" />
-    <state x="245" y="0" key="CommitChangelistDialog2" timestamp="1607032342081">
+    <state x="85" y="0" key="CommitChangelistDialog2" timestamp="1607032364721">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="245" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1607032342081" />
+    <state x="85" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1607032364721" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1606232250686">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
