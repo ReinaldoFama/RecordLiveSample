@@ -51,6 +51,9 @@
       </state>
     </system>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1kjoRIgrhikNhiXrdDf9dPd4dCv" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -59,8 +62,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="D:/RecordLiveSampl/app" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RunManager" selected="Gradle.app::Record Live Sample [signingReport]">
@@ -161,6 +165,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="402" y="154" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607032324112">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="402" y="154" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1607032324112" />
+    <state x="245" y="0" key="CommitChangelistDialog2" timestamp="1607032342081">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="245" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1607032342081" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1606232250686">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
